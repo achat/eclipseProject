@@ -7,6 +7,8 @@ public class Statistics {
 	//Simple statistics method
 	public double calcMedian() {
 		
+		   //another comment
+		   
 	       double[] values = new double[] {65, 51, 16, 11, 6519, 191, 0, 98, 11244, 1, 32};
 	       DescriptiveStatistics descriptiveStatistics = new DescriptiveStatistics();
 	       
